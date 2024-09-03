@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+details {
+	margin-bottom: 1vh;
+}
+
 ol, ul {
 	list-style: none;
 }
